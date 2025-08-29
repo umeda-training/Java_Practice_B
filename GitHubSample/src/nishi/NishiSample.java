@@ -1,7 +1,7 @@
 package nishi;
 
 public class NishiSample {
-	public static void main(String[] args) {
+	public void calc() {
 		int a = 0;
 		int b =10;
 		
