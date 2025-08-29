@@ -1,12 +1,7 @@
 package main;
 
 public class test {
-
-	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
-		
-		System.out.println("test");
-
+	public String  test1() {
+		return "test";
 	}
-
 }
